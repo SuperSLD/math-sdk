@@ -1,0 +1,1 @@
+/Users/leonidsolanoj/Documents/GitHub/math/math-sdk/build/classes/kotlin/main/online/jutter/mathsdk/MSTest.class
